@@ -4,8 +4,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import requests
 
 # create a bot object with your bot token
-bot = telebot.TeleBot('6304860990:AAGwZ6vuYhsXfIbecTk7rVPmtnOeEZDdRAs')
-spotify_client = spotipy.Spotify(client_credentials_manager=spotipy.oauth2.SpotifyClientCredentials(client_id='c91d1ce539f84c729d0a35752b6b363e', client_secret='7bcb565290454bcea321d27ddbe3866b'))
+bot = telebot.TeleBot('your_token')
+spotify_client = spotipy.Spotify(client_credentials_manager=spotipy.oauth2.SpotifyClientCredentials(client_id='your_client_id', client_secret='your_client_secret'))
 
 # define a function to handle incoming messages
 @bot.message_handler(commands=['start'])
