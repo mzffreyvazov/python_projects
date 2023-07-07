@@ -1,7 +1,7 @@
-# Python Bot for Exporting Spotify Playlist
+# Telegram Bot for Exporting Spotify Playlist
 
-This is a Python script that implements a Telegram bot for exporting Spotify playlists. I think telegram is a great place for exporting your Spotify playlist and 
-listening the musics easily with no internet connection needed. You can also easily save the musics to you device's internal storage, so it is also a great way to
+This is a Python script that implements a Telegram bot for exporting Spotify playlists. Telegram is a great place for exporting your Spotify playlist and 
+listening the musics easily with no internet connection needed after exporting. You can also easily save the musics to you device's internal storage, so it is also a great way to
 download you spotify playlist to your device.
 The bot allows users to provide a Spotify playlist link and then downloads and sends audio messages for each track in the playlist. 
 Biggest downside is this: Spotify doesn't allow downloading the full tracks, but only their 30-second previews (and I was not aware of this fack until I finally finished writing this python script.)
