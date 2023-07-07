@@ -1,6 +1,6 @@
 # Word Translation with Column Extraction and Web Scraping
 
-This Python script extracts specific or unwanted columns from a CSV file that is exported form Google Translate and performs word translation (getting their english description) using web scraping. It allows you to specify the columns to keep in the input CSV file and fetches the English word descriptions from the Merriam-Webster website or a similar website. The extracted columns and word descriptions are then saved to an output CSV file.
+This Python script extracts specific or unwanted columns from a CSV file that is exported form Google Translate and performs word translation (getting their english description) using web scraping. It allows you to specify the columns to keep in the input CSV file and fetches the English word descriptions from the Merriam-Webster website (you can use other similar websites if you want). The extracted columns and word descriptions are then saved to an output CSV file.
 
 ## Features
 
