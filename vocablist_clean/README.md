@@ -1,7 +1,7 @@
 # CSV Splitter
 
 This is a simple Python script to clean a txt file containing english words with their azerbaijani translation and then to split
-the cleaned CSV version of the file into smaller chunks for importing flashcard application (Anki). 
+the cleaned CSV version of the file into smaller chunks for importing them into a flashcard application (Anki). 
 
 ## Usage
 
