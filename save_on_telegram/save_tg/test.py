@@ -1,7 +1,7 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
 n = int(input())
-lst1 = list(map(int, input("\nEnter the numbers : ").strip().split()))[:n]
+lst1 = list(map(int, input().strip().split()))[:n]
 
 
 lst2 = []
